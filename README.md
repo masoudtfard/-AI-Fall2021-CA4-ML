@@ -5,7 +5,7 @@
 In this project, we aim to get acquainted with machine learning methods through the `Scikit-Learn` library. This project is defined in four phases. In phase zero, we review and analyze the data. In the first phase, we will get familiar with preprocessing methods. In the second phase, we use the famous Sickit-Learn library models to predict labels and optimize these models. Finally, in the third phase, we use Ensemble Learning methods and compare the results of these types of models with the results of the previous phase.
 
 ### Results:
-|  <font size="4"> $$\text{Train/Test Accuracy %}$$| <font size="4"> $$\text{Imbalanced Data}$$ | <font size="4"> $$\text{Balanced Data}$$     
+|  <font size="4"> $$\text{Train/Test Accuracy \%}$$| <font size="4"> $$\text{Imbalanced Data}$$ | <font size="4"> $$\text{Balanced Data}$$     
 |:-------------------|:------------------------------------|:---------------------------|
 | <font size="4"> $$\text{Desicion Tree}$$|  <p align = center>$73/69$   |     <p align = center>$74/75$   
 | <font size="4"> $$\text{Desicion Tree(AdaBoost)}$$ |   <p align = center> $100/74$   |   <p align = center>   $100/89$    
